@@ -1,4 +1,6 @@
-# walkingPiczke
+# walking-pikachu
+
+(A tiny nonsensical experiment with JavaFx)
 
 **To create the jar file:**
 
